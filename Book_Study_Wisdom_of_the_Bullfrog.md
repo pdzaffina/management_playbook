@@ -1,0 +1,13 @@
+# Book Study: "The Wisdom of the Bullfrog" by Admiral (RET) William H. McRaven
+## Reading plan
+This book is broken into 18 very short chapters. This makes it easy to read two per week. About 10 weeks total.
+
+* Intro, Chapter 1, Chapter 2
+* Chapter 3, Chapter 4
+* Chapter 5, Chapter 6
+* Chapter 7, Chapter 8
+* Chapter 9, Chpater 10
+* Chapter 11, Chapter 12
+* Chapter 13, Chapter 14
+* Chapter 15, Chapter 16
+* Chapter 17, Chapter 18, Conclusion
