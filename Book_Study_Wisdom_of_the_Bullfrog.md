@@ -35,3 +35,26 @@ This book is broken into 18 very short chapters. This makes it easy to read two 
 1. Engage with your employees on a personal level to show them you are a leader of good character, a trustworthy individual.
 1. Only promise what you can deliver. The quickest way to lose trust is to overpromise and underdeliver.
 1. Know that trust is built over time. Don't rush it.
+
+<!--
+### Chapter 3: *When in Command, Command*
+
+>
+> d
+> -
+
+1. dff
+2. dff
+3. dd
+
+### Chapter 4: **
+
+> rf
+> ff
+> - f
+
+1. fhf
+2. jfjf
+3. gkgk
+
+-->
