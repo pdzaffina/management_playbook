@@ -36,25 +36,25 @@ This book is broken into 18 very short chapters. This makes it easy to read two 
 1. Only promise what you can deliver. The quickest way to lose trust is to overpromise and underdeliver.
 1. Know that trust is built over time. Don't rush it.
 
-<!--
 ### Chapter 3: *When in Command, Command*
 
->
-> d
-> -
+> Life is not easy for any of us. But what of that? We must have perseverance and above all confidence ourselves. We must believe that we are
+> gifted for something and that this thing must be attained.
+> 
+> — Marie Curie
 
-1. dff
-2. dff
-3. dd
+1. Be confident. You were given the job because you have talent and experience. Trust your instincts.
+2. Be decisive. Don't take too much counsel of your fears. Be thoughtful, but not paralyzed by indecision.
+3. Be passionate. Show your employees you care about them and about the mission.
 
-### Chapter 4: **
+### Chapter 4: *We All Have Our Frog Floats*
 
-> rf
-> ff
-> - f
+> True humility is not an abject, groveling, self-despising spirit; it is but a right estimate of ourselves as God sees us.
+> 
+> — Tryon Edwards, American Theologian
 
-1. fhf
-2. jfjf
-3. gkgk
+1. Be humble in your demeanor and your expectations.
+2. Accept the fact that you will be asked to do jobs that are beneath your status. Do them to the best of your ability.
+3. Measure the strength of your employees by their willingness to do the little tasks and do them well.
 
--->
+
