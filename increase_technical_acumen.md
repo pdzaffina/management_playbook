@@ -7,7 +7,7 @@
   - 5:00 - Kafka (event streams) 
   - 5:00 - Git (version control)
   - 8:50 - Demonstrate benefits.
-  - 10:15 - Rebuilt CLuster using Ansible Scripts.
+  - 10:15 - Rebuilt Cluster using Ansible Scripts.
   - 10:30 - Event sourced and reset to checkpoint in time before outage
   - 14:25 - Service Oriented Architecture (SOA)
   - 15:40 - Service call uptime math
